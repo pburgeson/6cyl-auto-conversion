@@ -1,13 +1,16 @@
+# The Problem
+It is widely held in the experimental avaiation community that auto conversions are not worth the time or money.  It is believed that not only do they end up as or more expensive as a traditional air cooled aviation engine, they are much less reliable.  I aim to change that.
+
+My mission to is design, build, and test a diesel auto converstion that is reliable and a fraction of the cost of a traditional avaition engine.  This will allow for use of jet fuel, avoids needing a double redudant ignition system, use of modern engine technology, liquid cooling, and access to low cost automotive components.
+
 # Requirements
-* Greater than 250 hp
 * Automotive diesel engine
+* Greater than 250 hp
 * Turbocharged
 * Liquid cooled
 * Available in the US
 * Less than $15,000 before modifications
-* Weight less than 500 lbs if less than 300 hp
-* Weight less than 700 lbs if greater than 300 hp
-* Engine heater included
+* Aluminum engine block
 * Steel pistons
 
 # Candidate Engines
