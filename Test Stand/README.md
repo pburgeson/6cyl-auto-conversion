@@ -8,6 +8,14 @@ Design and build of test stand for modification of LZ0 engine for use in Velocit
 * Ties into engine CAN bus to measure its data
 * Capable of providing cooling to engine
 * Capable of providing a load to the engine without a prop
+* Pivoting stand to allow rotation while engine in motion
+  	* Roll
+  	* Pitch
+	* Yaw
+* Stand capable of simulating engine attitudes:
+  	* Straight & level
+  	* Takeoff attitude
+  	* Steep turns
 * Various sensor measurements
 	* Engine Speed
 	* Engine coolant intake temp
